@@ -1,0 +1,1 @@
+https://laravel2018.wordpress.com/2021/02/05/paytm-payment-gateway-integration-in-laravel-8/
